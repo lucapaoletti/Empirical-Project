@@ -2,5 +2,3 @@ The task is to implement a ranking system based on the PageRank index using the 
 conditions of use. The entities to be ranked can be either customers or products. In the first case, there will be a link between two customers if they have reviewed 
 at least a same product, while in the second one two products will be linked if they have been reviewed at least by a same customer. Note that this dataset is composed 
 by several CSV files, each related to a specific product category: you are free to choose how much such files have to be processed.
-
-Project Link: https://colab.research.google.com/drive/1gYNxZkS7h6vWR8DnSJt0MzrZnLaMwU0p#scrollTo=_i2TZ3-ok3aP
