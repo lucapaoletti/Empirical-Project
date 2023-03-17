@@ -3,4 +3,4 @@ conditions of use. The entities to be ranked can be either customers or products
 at least a same product, while in the second one two products will be linked if they have been reviewed at least by a same customer. Note that this dataset is composed 
 by several CSV files, each related to a specific product category: you are free to choose how much such files have to be processed.
 
-Market Basket Analysi - The task is to implement a system finding frequent itemsets (aka market-basket analysis), analyzing the «Amazon US Customer Review» dataset.
+Market Basket Analysis - The task is to implement a system finding frequent itemsets (aka market-basket analysis), analyzing the «Amazon US Customer Review» dataset.
